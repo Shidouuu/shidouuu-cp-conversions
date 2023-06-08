@@ -1,0 +1,17 @@
+{
+	"Format": "1.29.0", //the minimal version of content patcher needed to load this content pack
+
+	"Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Gus",
+            "FromFile": "assets/Characters/Gus.png"
+        },				
+		{	
+			"Action": "EditImage",
+			"Target": "Portraits/Gus",
+			"FromFile": "assets/Portraits/Gus.png"
+		},							
+	]
+
+}
