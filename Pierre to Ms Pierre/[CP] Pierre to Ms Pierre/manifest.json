@@ -1,9 +1,9 @@
 {
-   "Name": "Demetra sprites",
+   "Name": "Ms Pierre sprites",
    "Author": "Natanxp",
    "Version": "2.0",
-   "Description": "Changes Demetrius's sprites to female to match the Yuriyuri mod. CP version by Shidouuu.",
-   "UniqueID": "natanxp.demetrasprites",
+   "Description": "Changes Pierre's sprites to female to match the Yuriyuri mod. CP version by Shidouuu.",
+   "UniqueID": "natanxp.mspierresprites",
    "UpdateKeys": [ "" ], 
    "MinimumApiVersion": "2.0",
    "ContentPackFor": {
