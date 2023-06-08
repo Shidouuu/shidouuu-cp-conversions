@@ -8,5 +8,11 @@
    "MinimumApiVersion": "2.0",
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
-   }
+   },
+   "Dependencies": [
+      {
+         "UniqueID": "snowcmpie.YuriyuriMOD",
+         "IsRequired": false
+      }
+   ]
 }
