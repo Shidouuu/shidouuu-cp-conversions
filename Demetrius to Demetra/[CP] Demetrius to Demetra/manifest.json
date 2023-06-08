@@ -1,0 +1,18 @@
+{
+   "Name": "Demetrius sprites",
+   "Author": "Natanxp",
+   "Version": "2.0",
+   "Description": "Changes Demetrius's sprites to female to match the Yuriyuri mod. CP version by Shidouuu.",
+   "UniqueID": "natanxp.clinasprites",
+   "UpdateKeys": [ "" ], 
+   "MinimumApiVersion": "2.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+   },
+   "Dependencies": [
+      {
+         "UniqueID": "snowcmpie.YuriyuriMOD",
+         "IsRequired": false
+      }
+   ]
+}

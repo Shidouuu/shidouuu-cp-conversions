@@ -1,0 +1,21 @@
+{
+  "Format": "1.29.0",
+	"ConfigSchema":
+	{
+		"Demetrius sprite":
+		{
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+	},
+  "Changes": [
+	   {
+          "Action": "EditImage",
+          "Target": "Characters/Demetrius",
+          "FromFile": "assets/Characters/Demetrius.png",
+		  "When": { 
+				"Demetrius sprite": "True" 
+		  }
+       },
+	]
+}         		  
