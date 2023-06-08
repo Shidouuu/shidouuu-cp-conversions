@@ -1,0 +1,12 @@
+{
+   "Name": "Clina sprites",
+   "Author": "Natanxp",
+   "Version": "2.0",
+   "Description": "Changes Clint's sprites to female to match the Yuriyuri mod. CP version by Shidouuu.",
+   "UniqueID": "natanxp.clinasprites",
+   "UpdateKeys": [ "Nexus:3906" ], // not accurate yet
+   "MinimumApiVersion": "2.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+   }
+}

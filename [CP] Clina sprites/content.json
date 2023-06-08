@@ -1,0 +1,35 @@
+{
+  "Format": "1.29.0",
+	"ConfigSchema":
+	{
+		"Clint sprite":
+		{
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Clint beach sprite":
+		{
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+	},
+  "Changes": [
+	   {
+          "Action": "EditImage",
+          "Target": "Characters/Clint",
+          "FromFile": "assets/Characters/Clint.png",
+		  "When": { 
+				"Clint sprite": "True" 
+		  }
+       },
+       {
+          "Action": "EditImage",
+          "Target": "Characters/Clint_Beach",
+          "FromFile": "assets/Characters/Clint_Beach.png",
+		  	"When": { 
+				"Clint beach sprite": "True" 
+		  }
+
+       }
+	]
+}         		  
