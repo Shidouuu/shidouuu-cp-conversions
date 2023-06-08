@@ -1,0 +1,292 @@
+// I dont know what I'm doing
+// This is all guess work
+
+// Credit for this content.json and each character json goes to Poltergeister.
+
+{
+    "Format": "1.28.0",
+    "DynamicTokens": [
+
+        // Standard Dynamic Tokens
+
+        {
+            "Name": "IndoorVariant", // Default
+            "Value": "",
+            "When":
+            {
+                "Season": "Spring, Summer, Fall",
+            }
+        },
+        {
+            "Name": "IndoorVariant", // Indoors Only
+            "Value": "_Indoor",
+            "When":
+            {
+                "Season": "Winter",
+                "WinterIndoorOutdoorOutfits": "IndoorOnly",
+            }
+        },
+        {
+            "Name": "IndoorVariant", // Outdoors Only
+            "Value": "_Outdoor",
+            "When":
+            {
+                "Season": "Winter",
+                "WinterIndoorOutdoorOutfits": "OutdoorOnly",
+            }
+        },
+        {
+            "Name": "IndoorVariant", // Indoors Switch
+            "Value": "_Indoor",
+            "When":
+            {
+                "IsOutdoors": "false",
+                "Season": "Winter",
+                "WinterIndoorOutdoorOutfits": "IndoorOutdoor",
+            }
+        },
+        {
+            "Name": "IndoorVariant", // Outdoors Switch
+            "Value": "_Outdoor",
+            "When":
+            {
+                "IsOutdoors": "true",
+                "Season": "Winter",
+                "WinterIndoorOutdoorOutfits": "IndoorOutdoor",
+            }
+        },
+        {
+            "Name": "Festival",
+            "Value": "",
+        },
+        {
+            "Name": "Festival",
+            "Value": "FlowerDance",
+            "When":
+            {
+                "DayEvent": "flower dance",
+                "LocationName": "Forest, temp"
+            }
+        },
+        {
+            "Name": "Festival",
+            "Value": "SpiritsEve",
+            "When":
+            {
+                "DayEvent": "spirit's eve",
+                "LocationName": "town, temp"
+            }
+        },
+        {
+			"Name": "AerobicsDay",
+			"Value": "",
+		},
+        {
+			"Name": "AerobicsDay",
+			"Value": "Regular",
+			"When":
+			{
+				"DayOfWeek": "Tuesday",
+                "LocationName": "SeedShop",
+                "ExtraOutfits": "True",
+                "Weather": "sun, wind, snow",
+			},
+		},
+        {
+			"Name": "SamWork",
+			"Value": "",
+		},
+        {
+			"Name": "SamWork",
+			"Value": "True",
+			"When":
+			{
+				"HasSeenEvent: currentPlayer |contains=191393": false,
+                "LocationName": "JojaMart",
+				"DayOfWeek": "Monday, Wednesday,"
+			},
+		},
+        {
+			"Name": "SamWork",
+			"Value": "True",
+			"When":
+			{
+				"HasFile:{{FromFile}}": true,
+                "HasSeenEvent: currentPlayer |contains=191393": true,
+                "LocationName": "ArchaeologyHouse",
+				"DayOfWeek": "Monday, Wednesday,"
+			},
+		},
+	],
+
+    "ConfigSchema":
+    {
+		// Seasonal Cute Characters Config
+        "NoNose":
+        {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        /*"FestivalOutfits":
+        {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },*/
+        "WinterIndoorOutdoorOutfits":
+		{
+			"AllowValues": "IndoorOutdoor, IndoorOnly, OutdoorOnly",
+			"Default": "IndoorOutdoor",
+		},
+        "ExtraOutfits":
+        {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+		"FemaleShoes":
+        {
+            "AllowValues": "Flat, Dainty",
+            "Default": "Flat"
+        },				
+		"ShirtSpring":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "WarmWeather"
+        },
+		"ShirtSummer":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "WarmWeather"
+        },
+		"ShirtFall":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "ColdWeather"
+        },
+		"ShirtWinter":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "ColdWeather"
+        },
+		"ShoesSpring":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "ColdWeather"
+        },
+		"ShoesSummer":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "WarmWeather"
+        },
+		"ShoesFall":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "WarmWeather"
+        },
+		"ShoesWinter":
+        {
+            "AllowValues": "ColdWeather, WarmWeather, False",
+            "Default": "ColdWeather"
+        },
+		"IslandSummerClothes":
+        {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },		
+		"SeasonalFemaleAlex":
+        {
+			"AllowValues": "True, False",
+			"Default": "True",
+		},	
+		"SeasonalFemaleSam":
+        {
+			"AllowValues": "True, False",
+			"Default": "True",
+		},
+		"SeasonalFemaleSebastian":
+        {
+			"AllowValues": "True, False",
+			"Default": "True",
+		},
+		"SeasonalFemaleShane":
+        {
+			"AllowValues": "True, False",
+			"Default": "True",
+		},
+
+        // Elliot options
+        "SeasonalFemaleElliott":
+        {
+			"AllowValues": "Adarin, Rekooooon, None",
+			"Default": "Adarin",
+            "Section": "Elliot Options"
+		},
+        "Sprites":
+        {
+            "AllowValues": "Adarin, Adarin Variant, Rekooooon, None",
+            "Default": "Rekooooon",
+            "Section": "Elliot Options"
+        },
+        "BeachSprites":
+        {
+            "AllowValues": "Adarin, Adarin Variant, Rekooooon, None",
+            "Default": "Rekooooon",
+            "Section": "Elliot Options"
+        }
+    },
+		
+    "Changes": [
+	
+		// Seasonal Cute Characters Changes
+		// Seasonal Character Includes
+			{  
+				"LogName": "Alex Seasonal Include",
+				"Action": "Include",
+				"FromFile": "assets/Code/Alex.json",
+				"When": 
+				{
+					"HasFile:{{FromFile}}": true,
+					"SeasonalFemaleAlex": "True",
+				}
+			},
+			{  
+				"LogName": "Elliott Seasonal Include",
+				"Action": "Include",
+				"FromFile": "assets/Code/Elliott.json",
+				"When": 
+				{
+					"HasFile:{{FromFile}}": true,
+					"Query: '{{SeasonalFemaleElliott}}' = 'Adarin' OR '{{SeasonalFemaleElliott}}' = 'Rekooooon'": true,
+				}
+			},
+			{  
+				"LogName": "Sam Seasonal Include",
+				"Action": "Include",
+				"FromFile": "assets/Code/Sam.json",
+				"When": 
+				{
+					"HasFile:{{FromFile}}": true,
+					"SeasonalFemaleSam": "True",
+				}
+			},
+			{  
+				"LogName": "Sebastian Seasonal Include",
+				"Action": "Include",
+				"FromFile": "assets/Code/Sebastian.json",
+				"When": 
+				{
+					"HasFile:{{FromFile}}": true,
+					"SeasonalFemaleSebastian": "True",
+				}
+			},
+			{  
+				"LogName": "Shane Seasonal Include",
+				"Action": "Include",
+				"FromFile": "assets/Code/Shane.json",
+				"When": 
+				{
+					"HasFile:{{FromFile}}": true,
+					"SeasonalFemaleShane": "True",
+				}
+			},					
+    ]
+}

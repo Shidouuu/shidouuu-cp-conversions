@@ -1,0 +1,14 @@
+{
+   "Name": "Seasonal Female Bachelors + Harvey",
+   "Author": "Ladyofthelight, CP version by Shidouuu",
+   "Version": "1.0.0",
+   "Description": "Changes bachelors' portraits and sprites to female. Now with partial Harvey support.",
+   "UniqueID": "Ladyofthelight.SeasonalFemaleBachelors",
+    "MinimumApiVersion": "3.10.0",
+"UpdateKeys": [ "Nexus:15764" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+   },
+     "Dependencies": [
+ ]
+}
