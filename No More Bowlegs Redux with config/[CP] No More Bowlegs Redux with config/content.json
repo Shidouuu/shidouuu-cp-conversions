@@ -1,0 +1,551 @@
+{
+   "Format": "1.23.0",
+    "ConfigSchema": {
+        "EnableAbigail": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableAlex": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableBouncer": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableCaroline": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableClint": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableClothesTherapyCharacters": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableDemetrius": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableDwarf": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableElliot": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableEmily": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableEvelyn": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnablefemaleRival": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableGovernor": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableGunther": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableGus": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableHaley": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableHarvey": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableHenchman": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableJodi": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableKent": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableKrobus": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableLeah": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableLewis": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableLinus": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMarcello": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMarlon": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMariner": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMaru": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMorris": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnablePam": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableParrotBoy": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnablePenny": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnablePierre": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableRobin": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableSam": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableSandy": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableSebastian": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableShane": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableVincent": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableWeddingOutfits": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableWilly": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableWizard": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+    },
+   "Changes": [
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Abigail",
+         "FromFile": "assets/Abigail.png",
+		 "When": {
+			  "EnableAbigail": "enable"
+		 }		 
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Alex",
+         "FromFile": "assets/Alex.png",
+		 "When": {
+			  "EnableAlex": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Bouncer",
+         "FromFile": "assets/Bouncer.png",
+		 "When": {
+			  "EnableBouncer": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Caroline",
+         "FromFile": "assets/Caroline.png",
+		 "When": {
+			  "EnableCaroline": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Clint",
+         "FromFile": "assets/Clint.png",
+		 "When": {
+			  "EnableClint": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/ClothesTherapyCharacters",
+         "FromFile": "assets/ClothesTherapyCharacters.png",
+		 "When": {
+			  "EnableClothesTherapyCharacters": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Demetrius",
+         "FromFile": "assets/Demetrius.png",
+		 "When": {
+			  "EnableDemetrius": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Demetrius_Beach",
+         "FromFile": "assets/Demetrius_Beach.png",
+		 "When": {
+			  "EnableDemetrius": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Dwarf",
+         "FromFile": "assets/Dwarf.png",
+		 "When": {
+			  "EnableDwarf": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Elliott",
+         "FromFile": "assets/Elliott.png",
+		 "When": {
+			  "EnableElliot": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Elliott_Beach",
+         "FromFile": "assets/Elliott_Beach.png",
+		 "When": {
+			  "EnableElliot": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Emily",
+         "FromFile": "assets/Emily.png",
+		 "When": {
+			  "EnableEmily": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Evelyn",
+         "FromFile": "assets/Evelyn.png",
+		 "When": {
+			  "EnableEvelyn": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/femaleRival",
+         "FromFile": "assets/femaleRival.png",
+		 "When": {
+			  "EnablefemaleRival": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Governor",
+         "FromFile": "assets/Governor.png",
+		 "When": {
+			  "EnableGovernor": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Gunther",
+         "FromFile": "assets/Gunther.png",
+		 "When": {
+			  "EnableGunther": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Gus",
+         "FromFile": "assets/Gus.png",
+		 "When": {
+			  "EnableGus": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Haley",
+         "FromFile": "assets/Haley.png",
+		 "When": {
+			  "EnableHaley": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Harvey",
+         "FromFile": "assets/Harvey.png",
+		 "When": {
+			  "EnableHarvey": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Harvey_Beach",
+         "FromFile": "assets/Harvey_Beach.png",
+		 "When": {
+			  "EnableHarvey": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Henchman",
+         "FromFile": "assets/Henchman.png",
+		 "When": {
+			  "EnableHenchman": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Jodi",
+         "FromFile": "assets/Jodi.png",
+		 "When": {
+			  "EnableJodi": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Kent",
+         "FromFile": "assets/Kent.png",
+		 "When": {
+			  "EnableKent": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Leah",
+         "FromFile": "assets/Leah.png",
+		 "When": {
+			  "EnableLeah": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/LeahExMale",
+         "FromFile": "assets/LeahExMale.png",
+		 "When": {
+			  "EnableLeah": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/LeahExFemale",
+         "FromFile": "assets/LeahExFemale.png",
+		 "When": {
+			  "EnableLeah": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Lewis",
+         "FromFile": "assets/Lewis.png",
+		 "When": {
+			  "EnableLewis": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Lewis_Beach",
+         "FromFile": "assets/Lewis_Beach.png",
+		 "When": {
+			  "EnableLewis": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Linus",
+         "FromFile": "assets/Linus.png",
+		 "When": {
+			  "EnableLinus": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Marcello",
+         "FromFile": "assets/Marcello.png",
+		 "When": {
+			  "EnableMarcello": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Mariner",
+         "FromFile": "assets/Mariner.png",
+		 "When": {
+			  "EnableMariner": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Marlon",
+         "FromFile": "assets/Marlon.png",
+		 "When": {
+			  "EnableMarlon": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Maru",
+         "FromFile": "assets/Maru.png",
+		 "When": {
+			  "EnableMaru": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Maru_Hospital",
+         "FromFile": "assets/Maru_Hospital.png",
+		 "When": {
+			  "EnableMaru": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Morris",
+         "FromFile": "assets/Morris.png",
+		 "When": {
+			  "EnableMorris": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Pam",
+         "FromFile": "assets/Pam.png",
+		 "When": {
+			  "EnablePam": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Penny",
+         "FromFile": "assets/Penny.png",
+		 "When": {
+			  "EnablePenny": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Vincent",
+         "FromFile": "assets/Vincent.png",
+		 "When": {
+			  "EnableVincent": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/WeddingOutfits",
+         "FromFile": "assets/WeddingOutfits.png",
+		 "When": {
+			  "EnableWeddingOutfits": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/ParrotBoy",
+         "FromFile": "assets/ParrotBoy.png",
+		 "When": {
+			  "EnableParrotBoy": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Sam",
+         "FromFile": "assets/Sam.png",
+		 "When": {
+			  "EnableSam": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Sam_Beach",
+         "FromFile": "assets/Sam_Beach.png",
+		 "When": {
+			  "EnableSam": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Sandy",
+         "FromFile": "assets/Sandy.png",
+		 "When": {
+			  "EnableSandy": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Shane",
+         "FromFile": "assets/Shane.png",
+		 "When": {
+			  "EnableShane": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Shane_Beach",
+         "FromFile": "assets/Shane_Beach.png",
+		 "When": {
+			  "EnableShane": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Shane_JojaMart",
+         "FromFile": "assets/Shane_JojaMart.png",
+		 "When": {
+			  "EnableShane": "enable"
+		  }
+      },
+	  {
+         "Action": "EditImage",
+         "Target": "Characters/Willy",
+         "FromFile": "assets/Willy.png",
+		 "When": {
+			  "EnableWilly": "enable"
+		  }
+      },
+   ]
+}
