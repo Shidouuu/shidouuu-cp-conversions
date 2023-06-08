@@ -1,0 +1,341 @@
+{
+  "Format": "1.3",
+    "ConfigSchema": {
+        "EnableAbigail": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableAlex": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableCaroline": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableClint": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+        "EnableDemetrius": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableDwarf": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableElliot": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableEmily": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableGunther": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableHaley": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableHarvey": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableJas": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableJodi": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableKrobus": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+		},
+        "EnableLeah": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableLewis": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMarlon": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMarnie": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableMaru": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnablePenny": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnablePierre": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableRobin": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableSam": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableSebastian": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableShane": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableVincent": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+		"EnableWizard": {
+            "AllowValues": "enable, disable",
+            "Default": "enable"
+        },
+    },
+  "Changes": [
+       // replace Portraits
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Abigail",
+          "FromFile": "assets/Abigail.xnb",
+		  "When": {
+			  "EnableAbigail": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Alex",
+          "FromFile": "assets/Alex.xnb",
+		  "When": {
+			  "EnableAlex": "enable"
+		  }		  
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Caroline",
+          "FromFile": "assets/Caroline.xnb",
+		  "When": {
+			  "EnableCaroline": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Clint",
+          "FromFile": "assets/Clint.xnb",
+		  "When": {
+			  "EnableClint": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Demetrius",
+          "FromFile": "assets/Demetrius.xnb",
+		  "When": {
+			  "EnableDemetrius": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Dwarf",
+          "FromFile": "assets/Dwarf.xnb",
+		  "When": {
+			  "EnableDwarf": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Elliott",
+          "FromFile": "assets/Elliott.xnb",
+		  "When": {
+			  "EnableElliot": "enable"
+		  }		  
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Emily",
+          "FromFile": "assets/Emily.xnb",
+		  "When": {
+			  "EnableEmily": "enable"
+		  }		  
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Gunther",
+          "FromFile": "assets/Gunther.xnb",
+		  "When": {
+			  "EnableGunther": "enable"
+		  }		  
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Haley",
+          "FromFile": "assets/Haley.xnb",
+		  "When": {
+			  "EnableHaley": "enable"
+		  }		  
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Harvey",
+          "FromFile": "assets/Harvey.xnb",
+		  "When": {
+			  "EnableHarvey": "enable"
+		  }		  
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Jas",
+          "FromFile": "assets/Jas.xnb",
+		  "When": {
+			  "EnableJas": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Jodi",
+          "FromFile": "assets/Jodi.xnb",
+		  "When": {
+			  "EnableJodi": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Krobus",
+          "FromFile": "assets/Krobus.xnb",
+		  "When": {
+			  "EnableKrobus": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Leah",
+          "FromFile": "assets/Leah.xnb",
+		  "When": {
+			  "EnableLeah": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Lewis",
+          "FromFile": "assets/Lewis.xnb",
+		  "When": {
+			  "EnableLewis": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Marlon",
+          "FromFile": "assets/Marlon.xnb",
+		  "When": {
+			  "EnableMarlon": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Marnie",
+          "FromFile": "assets/Marnie.xnb",
+		  "When": {
+			  "EnableMarnie": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Maru",
+          "FromFile": "assets/Maru.xnb",
+		  "When": {
+			  "EnableMaru": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Maru_Hospital",
+          "FromFile": "assets/Maru_Hospital.xnb",
+		  "When": {
+			  "EnableMaru": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Penny",
+          "FromFile": "assets/Penny.xnb",
+		  "When": {
+			  "EnablePenny": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Pierre",
+          "FromFile": "assets/Pierre.xnb",
+		  "When": {
+			  "EnablePierre": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Robin",
+          "FromFile": "assets/Robin.xnb",
+		  "When": {
+			  "EnableRobin": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Sam",
+          "FromFile": "assets/Sam.xnb",
+		  "When": {
+			  "EnableSam": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Sebastian",
+          "FromFile": "assets/Sebastian.xnb",
+		  "When": {
+			  "EnableSebastian": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Shane",
+          "FromFile": "assets/Shane.xnb",
+		  "When": {
+			  "EnableShane": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Vincent",
+          "FromFile": "assets/Vincent.xnb",
+		  "When": {
+			  "EnableVincent": "enable"
+		  }
+       },
+	   {
+          "Action": "Load",
+          "Target": "Portraits/Wizard",
+          "FromFile": "assets/Wizard.xnb",
+		  "When": {
+			  "EnableWizard": "enable"
+		  }
+       },
+	   
+	]
+}

@@ -1,0 +1,13 @@
+{
+   "Name": "Yuriyuri MOD",
+   "Author": "snowcmpie",
+   "Version": "1.0",
+   "Description": "Changed the villager's portraits. Now with config",
+   "UniqueID": "snowcmpie.YuriyuriMODconfig",
+   "UpdateKeys": [ "" ],
+   "MinimumApiVersion": "2.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.3.0" // optional
+   }
+}
