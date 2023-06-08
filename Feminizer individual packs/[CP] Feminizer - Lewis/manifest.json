@@ -1,0 +1,13 @@
+{
+	"Name": "Feminizer - Governor",
+	"Author": "NoFogBob, modification by Shidouuu",
+	"Version": "1.0.0",
+	"Description": "Replace Governor with female portraits and sprites. No dialogue.",
+	"UniqueID": "NoFogBob.Feminizer-Governor",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [ "" ],
+  	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher",
+		"MinimumVersion": "1.23.0" 
+			  }
+}

@@ -1,0 +1,17 @@
+{
+	"Format": "1.29.0", //the minimal version of content patcher needed to load this content pack
+
+	"Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Governor",
+            "FromFile": "assets/Characters/Governor.png"
+        },				
+		{	
+			"Action": "EditImage",
+			"Target": "Portraits/Governor",
+			"FromFile": "assets/Portraits/Governor.png"
+		},							
+	]
+
+}

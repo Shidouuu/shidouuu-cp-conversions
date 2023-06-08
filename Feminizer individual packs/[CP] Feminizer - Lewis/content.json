@@ -1,0 +1,38 @@
+{
+	"Format": "1.29.0", //the minimal version of content patcher needed to load this content pack
+
+	"Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Lewis",
+            "FromFile": "assets/Characters/Lewis.png"
+        },				
+        {	
+            "Action": "EditImage",
+            "Target": "Characters/Lewis_Beach",
+            "FromFile": "assets/Characters/Lewis_Beach.png"
+        },				
+		{	
+			"Action": "EditImage",
+			"Target": "Portraits/Lewis",
+			"FromFile": "assets/Portraits/Lewis.png"
+		},							
+        {
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Maps/Louise_Panties.png",
+			"FromArea":{ "X": 0, "Y": 0, "Width": 16, "Height": 16},
+			"ToArea":{ "X": 336, "Y": 512, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/Maps/Louise_Panties_Trimmed.png",
+			"FromArea":{ "X": 0, "Y": 0, "Width": 16, "Height": 16},
+			"ToArea":{ "X": 368, "Y": 32, "Width": 16, "Height": 16 }
+		},
+
+
+	]
+
+}

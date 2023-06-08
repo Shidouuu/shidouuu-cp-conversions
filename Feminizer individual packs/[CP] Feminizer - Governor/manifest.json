@@ -1,0 +1,13 @@
+{
+	"Name": "Feminizer - Lewis",
+	"Author": "NoFogBob, modification by Shidouuu",
+	"Version": "1.0.0",
+	"Description": "Replace Lewis with female portraits and sprites. No dialogue.",
+	"UniqueID": "NoFogBob.Feminizer-Lewis",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [ "" ],
+  	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher",
+		"MinimumVersion": "1.23.0" 
+			  }
+}
