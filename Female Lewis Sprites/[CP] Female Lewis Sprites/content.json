@@ -17,7 +17,7 @@
 	   {
           "Action": "EditImage",
           "Target": "Characters/Lewis",
-          "FromFile": "assets/Characters/Lewis.xnb",
+          "FromFile": "assets/Characters/Lewis.png",
 		  "When": { 
 				"Lewis sprite": "True" 
 		  }
@@ -25,7 +25,7 @@
        {
           "Action": "EditImage",
           "Target": "Characters/Lewis_Beach",
-          "FromFile": "assets/Characters/Lewis_Beach.xnb",
+          "FromFile": "assets/Characters/Lewis_Beach.png",
 		  	"When": { 
 				"Lewis beach sprite": "True" 
 		  }
