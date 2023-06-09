@@ -1,0 +1,13 @@
+{
+    "Name": "Sex Change Mod",
+    "Author": "MAKICO",
+    "Version": "1.0.0",
+    "Description": "Swaps the sex of everybody. CP version by Shidouuu",
+    "UniqueID": "makico.sexchangemod",
+    "MinimumApiVersion": "3.10.0",
+    "UpdateKeys": [ "" ],
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher",
+    },
+ }
+ 

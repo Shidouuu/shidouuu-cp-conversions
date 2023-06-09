@@ -1,0 +1,1267 @@
+{
+    "Format": "1.29.0",
+    "ConfigSchema": {
+        "Enable Abigail portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Abigail sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Alex portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Alex sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Baby sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Baby_dark sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Bear sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Bouncer portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Bouncer sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Caroline portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Caroline sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Clint portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Clint sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable ClothesTherapyCharacters sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Dana sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Demetrius portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Demetrius sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Dick sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Dwarf portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Dwarf sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Elliott portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Elliott sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Emily portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Emily sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Evelyn portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Evelyn sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable farmer_girl_base sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable femaleRival sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable George portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable George sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Governor portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Governor sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Grandpa portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Grandpa sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Gunther portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Gunther sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Gus portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Gus sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Haley portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Haley sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Harvey portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Harvey sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Henchman portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Henchman sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Jas portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Jas sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Jodi portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Jodi sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Junimo sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Kent portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Kent sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Krobus portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Krobus sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Leah portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Leah sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable LeahExFemale sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable LeahExMale sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Lewis portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Lewis sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Linus portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Linus sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable maleRival sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Marcello sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Mariner sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Marlon portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Marlon sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Marnie portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Marnie sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Maru portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Maru sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Maru_Hospital portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Maru_Hospital sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Morris portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Morris sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable MrQi sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Pam portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Pam sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Penny portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Penny sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Pierre portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Pierre sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Robin portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Robin sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable robot sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Sam portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Sam sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Sandy portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Sandy sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Sebastian portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Sebastian sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Shane portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Shane sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Shane_JojaMart sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable shirts sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Toddler sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Toddler_dark sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Toddler_girl sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Toddler_girl_dark sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Vincent portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Vincent sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable WeddingOutfits sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Willy portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Willy sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Wizard portraits": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        },
+        "Enable Wizard sprites": {
+            "AllowValues": "True, False",
+            "Default": "True"
+        }
+    },
+    "Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Abigail",
+            "FromFile": "assets/Portraits/Abigail.png",
+            "When": {
+                "Enable Abigail portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Abigail",
+            "FromFile": "assets/Characters/Abigail.png",
+            "When": {
+                "Enable Abigail sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Alex",
+            "FromFile": "assets/Portraits/Alex.png",
+            "When": {
+                "Enable Alex portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Alex",
+            "FromFile": "assets/Characters/Alex.png",
+            "When": {
+                "Enable Alex sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Baby",
+            "FromFile": "assets/Characters/Baby.png",
+            "When": {
+                "Enable Baby sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Baby_dark",
+            "FromFile": "assets/Characters/Baby_dark.png",
+            "When": {
+                "Enable Baby_dark sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Bear",
+            "FromFile": "assets/Characters/Bear.png",
+            "When": {
+                "Enable Bear sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Bouncer",
+            "FromFile": "assets/Portraits/Bouncer.png",
+            "When": {
+                "Enable Bouncer portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Bouncer",
+            "FromFile": "assets/Characters/Bouncer.png",
+            "When": {
+                "Enable Bouncer sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Caroline",
+            "FromFile": "assets/Portraits/Caroline.png",
+            "When": {
+                "Enable Caroline portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Caroline",
+            "FromFile": "assets/Characters/Caroline.png",
+            "When": {
+                "Enable Caroline sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Clint",
+            "FromFile": "assets/Portraits/Clint.png",
+            "When": {
+                "Enable Clint portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Clint",
+            "FromFile": "assets/Characters/Clint.png",
+            "When": {
+                "Enable Clint sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/ClothesTherapyCharacters",
+            "FromFile": "assets/Characters/ClothesTherapyCharacters.png",
+            "When": {
+                "Enable ClothesTherapyCharacters sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Dana",
+            "FromFile": "assets/Characters/Dana.png",
+            "When": {
+                "Enable Dana sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Demetrius",
+            "FromFile": "assets/Portraits/Demetrius.png",
+            "When": {
+                "Enable Demetrius portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Demetrius",
+            "FromFile": "assets/Characters/Demetrius.png",
+            "When": {
+                "Enable Demetrius sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Dick",
+            "FromFile": "assets/Characters/Dick.png",
+            "When": {
+                "Enable Dick sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Dwarf",
+            "FromFile": "assets/Portraits/Dwarf.png",
+            "When": {
+                "Enable Dwarf portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Dwarf",
+            "FromFile": "assets/Characters/Dwarf.png",
+            "When": {
+                "Enable Dwarf sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Elliott",
+            "FromFile": "assets/Portraits/Elliott.png",
+            "When": {
+                "Enable Elliott portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Elliott",
+            "FromFile": "assets/Characters/Elliott.png",
+            "When": {
+                "Enable Elliott sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Emily",
+            "FromFile": "assets/Portraits/Emily.png",
+            "When": {
+                "Enable Emily portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Emily",
+            "FromFile": "assets/Characters/Emily.png",
+            "When": {
+                "Enable Emily sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Evelyn",
+            "FromFile": "assets/Portraits/Evelyn.png",
+            "When": {
+                "Enable Evelyn portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Evelyn",
+            "FromFile": "assets/Characters/Evelyn.png",
+            "When": {
+                "Enable Evelyn sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/farmer_girl_base",
+            "FromFile": "assets/Characters/farmer_girl_base.png",
+            "When": {
+                "Enable farmer_girl_base sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/femaleRival",
+            "FromFile": "assets/Characters/femaleRival.png",
+            "When": {
+                "Enable femaleRival sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/George",
+            "FromFile": "assets/Portraits/George.png",
+            "When": {
+                "Enable George portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/George",
+            "FromFile": "assets/Characters/George.png",
+            "When": {
+                "Enable George sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Governor",
+            "FromFile": "assets/Portraits/Governor.png",
+            "When": {
+                "Enable Governor portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Governor",
+            "FromFile": "assets/Characters/Governor.png",
+            "When": {
+                "Enable Governor sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Grandpa",
+            "FromFile": "assets/Portraits/Grandpa.png",
+            "When": {
+                "Enable Grandpa portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Grandpa",
+            "FromFile": "assets/Characters/Grandpa.png",
+            "When": {
+                "Enable Grandpa sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Gunther",
+            "FromFile": "assets/Portraits/Gunther.png",
+            "When": {
+                "Enable Gunther portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Gunther",
+            "FromFile": "assets/Characters/Gunther.png",
+            "When": {
+                "Enable Gunther sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Gus",
+            "FromFile": "assets/Portraits/Gus.png",
+            "When": {
+                "Enable Gus portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Gus",
+            "FromFile": "assets/Characters/Gus.png",
+            "When": {
+                "Enable Gus sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Haley",
+            "FromFile": "assets/Portraits/Haley.png",
+            "When": {
+                "Enable Haley portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Haley",
+            "FromFile": "assets/Characters/Haley.png",
+            "When": {
+                "Enable Haley sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Harvey",
+            "FromFile": "assets/Portraits/Harvey.png",
+            "When": {
+                "Enable Harvey portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Harvey",
+            "FromFile": "assets/Characters/Harvey.png",
+            "When": {
+                "Enable Harvey sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Henchman",
+            "FromFile": "assets/Portraits/Henchman.png",
+            "When": {
+                "Enable Henchman portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Henchman",
+            "FromFile": "assets/Characters/Henchman.png",
+            "When": {
+                "Enable Henchman sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Jas",
+            "FromFile": "assets/Portraits/Jas.png",
+            "When": {
+                "Enable Jas portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Jas",
+            "FromFile": "assets/Characters/Jas.png",
+            "When": {
+                "Enable Jas sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Jodi",
+            "FromFile": "assets/Portraits/Jodi.png",
+            "When": {
+                "Enable Jodi portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Jodi",
+            "FromFile": "assets/Characters/Jodi.png",
+            "When": {
+                "Enable Jodi sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Junimo",
+            "FromFile": "assets/Characters/Junimo.png",
+            "When": {
+                "Enable Junimo sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Kent",
+            "FromFile": "assets/Portraits/Kent.png",
+            "When": {
+                "Enable Kent portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Kent",
+            "FromFile": "assets/Characters/Kent.png",
+            "When": {
+                "Enable Kent sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Krobus",
+            "FromFile": "assets/Portraits/Krobus.png",
+            "When": {
+                "Enable Krobus portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Krobus",
+            "FromFile": "assets/Characters/Krobus.png",
+            "When": {
+                "Enable Krobus sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Leah",
+            "FromFile": "assets/Portraits/Leah.png",
+            "When": {
+                "Enable Leah portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Leah",
+            "FromFile": "assets/Characters/Leah.png",
+            "When": {
+                "Enable Leah sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/LeahExFemale",
+            "FromFile": "assets/Characters/LeahExFemale.png",
+            "When": {
+                "Enable LeahExFemale sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/LeahExMale",
+            "FromFile": "assets/Characters/LeahExMale.png",
+            "When": {
+                "Enable LeahExMale sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Lewis",
+            "FromFile": "assets/Portraits/Lewis.png",
+            "When": {
+                "Enable Lewis portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Lewis",
+            "FromFile": "assets/Characters/Lewis.png",
+            "When": {
+                "Enable Lewis sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Linus",
+            "FromFile": "assets/Portraits/Linus.png",
+            "When": {
+                "Enable Linus portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Linus",
+            "FromFile": "assets/Characters/Linus.png",
+            "When": {
+                "Enable Linus sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/maleRival",
+            "FromFile": "assets/Characters/maleRival.png",
+            "When": {
+                "Enable maleRival sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Marcello",
+            "FromFile": "assets/Characters/Marcello.png",
+            "When": {
+                "Enable Marcello sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Mariner",
+            "FromFile": "assets/Characters/Mariner.png",
+            "When": {
+                "Enable Mariner sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Marlon",
+            "FromFile": "assets/Portraits/Marlon.png",
+            "When": {
+                "Enable Marlon portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Marlon",
+            "FromFile": "assets/Characters/Marlon.png",
+            "When": {
+                "Enable Marlon sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Marnie",
+            "FromFile": "assets/Portraits/Marnie.png",
+            "When": {
+                "Enable Marnie portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Marnie",
+            "FromFile": "assets/Characters/Marnie.png",
+            "When": {
+                "Enable Marnie sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Maru",
+            "FromFile": "assets/Portraits/Maru.png",
+            "When": {
+                "Enable Maru portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Maru",
+            "FromFile": "assets/Characters/Maru.png",
+            "When": {
+                "Enable Maru sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Maru_Hospital",
+            "FromFile": "assets/Portraits/Maru_Hospital.png",
+            "When": {
+                "Enable Maru_Hospital portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Maru_Hospital",
+            "FromFile": "assets/Characters/Maru_Hospital.png",
+            "When": {
+                "Enable Maru_Hospital sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Morris",
+            "FromFile": "assets/Portraits/Morris.png",
+            "When": {
+                "Enable Morris portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Morris",
+            "FromFile": "assets/Characters/Morris.png",
+            "When": {
+                "Enable Morris sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/MrQi",
+            "FromFile": "assets/Characters/MrQi.png",
+            "When": {
+                "Enable MrQi sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Pam",
+            "FromFile": "assets/Portraits/Pam.png",
+            "When": {
+                "Enable Pam portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Pam",
+            "FromFile": "assets/Characters/Pam.png",
+            "When": {
+                "Enable Pam sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Penny",
+            "FromFile": "assets/Portraits/Penny.png",
+            "When": {
+                "Enable Penny portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Penny",
+            "FromFile": "assets/Characters/Penny.png",
+            "When": {
+                "Enable Penny sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Pierre",
+            "FromFile": "assets/Portraits/Pierre.png",
+            "When": {
+                "Enable Pierre portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Pierre",
+            "FromFile": "assets/Characters/Pierre.png",
+            "When": {
+                "Enable Pierre sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Robin",
+            "FromFile": "assets/Portraits/Robin.png",
+            "When": {
+                "Enable Robin portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Robin",
+            "FromFile": "assets/Characters/Robin.png",
+            "When": {
+                "Enable Robin sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/robot",
+            "FromFile": "assets/Characters/robot.png",
+            "When": {
+                "Enable robot sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Sam",
+            "FromFile": "assets/Portraits/Sam.png",
+            "When": {
+                "Enable Sam portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Sam",
+            "FromFile": "assets/Characters/Sam.png",
+            "When": {
+                "Enable Sam sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Sandy",
+            "FromFile": "assets/Portraits/Sandy.png",
+            "When": {
+                "Enable Sandy portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Sandy",
+            "FromFile": "assets/Characters/Sandy.png",
+            "When": {
+                "Enable Sandy sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Sebastian",
+            "FromFile": "assets/Portraits/Sebastian.png",
+            "When": {
+                "Enable Sebastian portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Sebastian",
+            "FromFile": "assets/Characters/Sebastian.png",
+            "When": {
+                "Enable Sebastian sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Shane",
+            "FromFile": "assets/Portraits/Shane.png",
+            "When": {
+                "Enable Shane portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Shane",
+            "FromFile": "assets/Characters/Shane.png",
+            "When": {
+                "Enable Shane sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Shane_JojaMart",
+            "FromFile": "assets/Characters/Shane_JojaMart.png",
+            "When": {
+                "Enable Shane_JojaMart sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/shirts",
+            "FromFile": "assets/Characters/shirts.png",
+            "When": {
+                "Enable shirts sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Toddler",
+            "FromFile": "assets/Characters/Toddler.png",
+            "When": {
+                "Enable Toddler sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Toddler_dark",
+            "FromFile": "assets/Characters/Toddler_dark.png",
+            "When": {
+                "Enable Toddler_dark sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Toddler_girl",
+            "FromFile": "assets/Characters/Toddler_girl.png",
+            "When": {
+                "Enable Toddler_girl sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Toddler_girl_dark",
+            "FromFile": "assets/Characters/Toddler_girl_dark.png",
+            "When": {
+                "Enable Toddler_girl_dark sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Vincent",
+            "FromFile": "assets/Portraits/Vincent.png",
+            "When": {
+                "Enable Vincent portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Vincent",
+            "FromFile": "assets/Characters/Vincent.png",
+            "When": {
+                "Enable Vincent sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/WeddingOutfits",
+            "FromFile": "assets/Characters/WeddingOutfits.png",
+            "When": {
+                "Enable WeddingOutfits sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Willy",
+            "FromFile": "assets/Portraits/Willy.png",
+            "When": {
+                "Enable Willy portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Willy",
+            "FromFile": "assets/Characters/Willy.png",
+            "When": {
+                "Enable Willy sprites": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Wizard",
+            "FromFile": "assets/Portraits/Wizard.png",
+            "When": {
+                "Enable Wizard portraits": "True"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Wizard",
+            "FromFile": "assets/Characters/Wizard.png",
+            "When": {
+                "Enable Wizard sprites": "True"
+            }
+        }
+    ]
+}
