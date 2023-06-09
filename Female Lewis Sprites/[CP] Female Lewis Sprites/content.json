@@ -2,12 +2,12 @@
   "Format": "1.29.0",
 	"ConfigSchema":
 	{
-		"Pierre sprite":
+		"Lewis sprite":
 		{
 			"AllowValues": "True, False",
 			"Default": "True"
 		},
-		"Pierre beach sprite":
+		"Lewis beach sprite":
 		{
 			"AllowValues": "True, False",
 			"Default": "True"
@@ -16,18 +16,18 @@
   "Changes": [
 	   {
           "Action": "EditImage",
-          "Target": "Characters/Pierre",
-          "FromFile": "assets/Characters/Pierre.png",
+          "Target": "Characters/Lewis",
+          "FromFile": "assets/Characters/Lewis.xnb",
 		  "When": { 
-				"Pierre sprite": "True" 
+				"Lewis sprite": "True" 
 		  }
        },
        {
           "Action": "EditImage",
-          "Target": "Characters/Pierre_Beach",
-          "FromFile": "assets/Characters/Pierre_Beach.png",
+          "Target": "Characters/Lewis_Beach",
+          "FromFile": "assets/Characters/Lewis_Beach.xnb",
 		  	"When": { 
-				"Pierre beach sprite": "True" 
+				"Lewis beach sprite": "True" 
 		  }
 
        }

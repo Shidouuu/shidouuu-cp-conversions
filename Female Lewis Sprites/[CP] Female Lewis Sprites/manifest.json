@@ -1,0 +1,18 @@
+{
+   "Name": "Female Lewis sprites",
+   "Author": "GONIC",
+   "Version": "2.0",
+   "Description": "Changes Lewis's sprites to female to match the Yuriyuri mod. CP version by Shidouuu.",
+   "UniqueID": "gonic.femalelewissprites",
+   "UpdateKeys": [ "" ], // not accurate yet
+   "MinimumApiVersion": "2.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+   },
+   "Dependencies": [
+      {
+         "UniqueID": "snowcmpie.YuriyuriMOD",
+         "IsRequired": false
+      }
+   ]
+}

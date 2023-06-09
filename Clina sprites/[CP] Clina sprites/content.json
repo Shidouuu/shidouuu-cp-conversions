@@ -2,12 +2,12 @@
   "Format": "1.29.0",
 	"ConfigSchema":
 	{
-		"Pierre sprite":
+		"Clint sprite":
 		{
 			"AllowValues": "True, False",
 			"Default": "True"
 		},
-		"Pierre beach sprite":
+		"Clint beach sprite":
 		{
 			"AllowValues": "True, False",
 			"Default": "True"
@@ -16,18 +16,18 @@
   "Changes": [
 	   {
           "Action": "EditImage",
-          "Target": "Characters/Pierre",
-          "FromFile": "assets/Characters/Pierre.png",
+          "Target": "Characters/Clint",
+          "FromFile": "assets/Characters/Clint.png",
 		  "When": { 
-				"Pierre sprite": "True" 
+				"Clint sprite": "True" 
 		  }
        },
        {
           "Action": "EditImage",
-          "Target": "Characters/Pierre_Beach",
-          "FromFile": "assets/Characters/Pierre_Beach.png",
+          "Target": "Characters/Clint_Beach",
+          "FromFile": "assets/Characters/Clint_Beach.png",
 		  	"When": { 
-				"ClinPierret beach sprite": "True" 
+				"Clint beach sprite": "True" 
 		  }
 
        }
